@@ -36,7 +36,7 @@ print(y)
 ## Sample Input:
 ![inp](./input.jpg)
 ## Output:
-![output](ulr.png)
+![output](ulr.PNG)
 ![output](s.png)
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
